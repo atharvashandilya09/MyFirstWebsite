@@ -5,7 +5,7 @@ body{
 }
 .top-container{
     background-color: #dff0ff;
-    padding-top: 100px;
+    padding-top: 6.25rem;
     position: relative
 }
 .pro{
@@ -13,13 +13,13 @@ body{
 }
 .bottom-cloud{
     position:absolute;
-    left: 300px;
-    bottom: 300px;
+    left: 18.75rem;
+    bottom: 18.75rem;
 }
 .top-cloud{
     position:absolute;
-    right:300px;
-    top: 50px;
+    right:18.75rem;
+    top: 3.125rem;
 }
 h1{
     font-family: 'Atomic Age', cursive;
@@ -52,14 +52,14 @@ a{
 }
 .skill-row{
     width: 50%;
-    margin: 100px auto 100px auto;
+    margin: 6.25rem auto 6.25rem auto;
     text-align: justify;
     line-height: 2;
 }
 .code-img{
     width: 25%;
     float: left;
-    margin-right: 30px;
+    margin-right: 1.875rem;
 }
 hr{
     border-style: none none dotted none;
@@ -77,11 +77,11 @@ hr{
     background-image: linear-gradient(to bottom, #11cdd4, #11999e);
     -webkit-border-radius: 8;
     -moz-border-radius: 8;
-    border-radius: 8px;
+    border-radius: 0.5rem;
     font-family: 'Century Gothic', sans-serif;
     color: #ffffff;
-    font-size: 20px;
-    padding: 10px 20px 10px 20px;
+    font-size: 1.25rem;
+    padding: 0.625rem 1.25rem 0.625rem 1.25rem;
     text-decoration: none;
     margin: 3rem auto 4rem auto;
   }
