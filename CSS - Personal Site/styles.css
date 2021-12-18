@@ -107,7 +107,7 @@ hr{
     top: 5rem;
 }
 .contact-me{    
-    width: 50%;
-    position: relative;
+    width: 50rem;
+    position: absolute;
     left: 23rem;
 }
